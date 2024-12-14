@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 Dec 2024 11:01:19 at https://madebydesignesia.com/themes/gardyn/index-select.html?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://madebydesignesia.com/themes/gardyn/index-select.html?storefront=envato-elements -O1 "C:\My Web Sites\https___madebydesignesia.com_themes_gardyn_index-select.html_storefront=envato-elements" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:10:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/demo/preview/about.webp (from https://madebydesignesia.com/themes/gardyn/index-select.html?storefront=envato-elements)
+11:10:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/demo/preview/gallery.webp (from https://madebydesignesia.com/themes/gardyn/index-select.html?storefront=envato-elements)
+11:10:56	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/css/owl.video.play.png (from https://madebydesignesia.com/themes/gardyn/css/plugins.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images/ui/arrow-down-form.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images/ui/arrow-down-form-hover.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/dotted.webp (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/icon-slide-plus.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/icon-slide-min.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/close.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/close-2.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/icon-url.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/icon-zoom.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images_02/list-arrow.png (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images/background/bg-header.jpg (from https://madebydesignesia.com/themes/gardyn/css/style.css)
+11:11:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/images/shop/misc/9.webp (from https://madebydesignesia.com/themes/gardyn/shop-homepage.html)
+11:11:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/images/shop/plants/lemon-grass.webp (from https://madebydesignesia.com/themes/gardyn/shop-homepage.html)
+11:11:11	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/href= (from https://madebydesignesia.com/themes/gardyn/shop-homepage.html)
+11:11:11	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/installation.html (from https://madebydesignesia.com/themes/gardyn/service-single.html)
+11:11:11	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/repair.html (from https://madebydesignesia.com/themes/gardyn/service-single.html)
+11:11:11	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/maintenance.html (from https://madebydesignesia.com/themes/gardyn/service-single.html)
+11:11:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/images/projects/5.jpg (from https://madebydesignesia.com/themes/gardyn/projects.html)
+11:11:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/images/gallery/7.webp (from https://madebydesignesia.com/themes/gardyn/gallery.html)
+11:11:12	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images/gallery/8.webp (from https://madebydesignesia.com/themes/gardyn/gallery.html)
+11:11:12	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images/gallery/9.webp (from https://madebydesignesia.com/themes/gardyn/gallery.html)
+11:11:12	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/recaptcha.js (from https://madebydesignesia.com/themes/gardyn/contact.html)
+11:11:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/fonts/fontawesome4/fonts/fontawesome-webfont.eot? (from https://madebydesignesia.com/themes/gardyn/fonts/fontawesome4/css/font-awesome.css)
+11:11:16	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/gardyn/images/gallery/7.webp (from https://madebydesignesia.com/themes/gardyn/gallery.html)
+11:11:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://madebydesignesia.com/themes/gardyn/fonts/fontawesome4/fonts/fontawesome-webfont.eot? (from https://madebydesignesia.com/themes/gardyn/fonts/fontawesome4/css/font-awesome.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 58 seconds : 259 links scanned, 230 files written (49184950 bytes overall) [46274340 bytes received at 77381 bytes/sec], 3871768 bytes transferred using HTTP compression in 56 files, ratio 20%, 4.7 requests per connection
+(20 errors, 8 warnings, 0 messages)
